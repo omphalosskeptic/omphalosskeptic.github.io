@@ -1,6 +1,4 @@
-My Minimal Portfolio
+This Site Has Moved
 =========================
 
-My GitHub page serves as a hub for my web projects — nothing fancy here, I like to say that *The Creation is the Citation*.
-
-![Screenshot](http://omphalosskeptic.github.io/images/portfolio.png)
+Please see [curiositry.github.io](http://curiositry.github.io), and it’s source code at http://github.com/curiositry/curiositry.github.io. This site is only here while people migrate their links, and may dissappear in a puff of air.
